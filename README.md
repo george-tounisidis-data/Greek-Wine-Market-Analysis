@@ -38,6 +38,6 @@ Real-world data is never perfect. During the ETL (Extract, Transform, Load) phas
 
 ## 📂 Repository Structure
 *   `greece_wine_analysis.sql`: Full SQL script containing the database setup, data cleaning, and analytical queries.
-*   `Greek_Wine_Dashboard.pbix`: The complete Power BI project file with structured data models and visuals.
+*   `Greek Wine Market Analysis.pbix`: The complete Power BI project file with structured data models and visuals.
 *   `README.md`: Project documentation.
 
