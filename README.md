@@ -31,7 +31,7 @@ Real-world data is never perfect. During the ETL (Extract, Transform, Load) phas
 
 ## 📈 Key Business Insights (Data Storytelling)
 *   **The Power of Blends:** White and Red Blends capture nearly **30% of the market share**, indicating strong consumer and producer preference for complex flavor profiles.
-*   **Assyrtiko as the Flagship:** Excluding blends, **Assyrtiko (13.02%)** is the leading single-variety white wine recognized internationally.
+*   **Market Leaders:** Excluding blends, **Agiorgitiko** commands the largest overall single-variety market share, while **Assyrtiko** stands firm as the leading single-variety white wine recognized internationally.
 *   **Guaranteed Quality Tier:** Over **70% of reviewed Greek wines** fall into the *Very Good (85-89 points)* category, proving that Greece is a highly reliable and safe region for stock sourcing.
 *   **The Premium Outlier:** Advanced scatter plot analysis revealed a significant pricing outlier at **$79**—the *Gerovassiliou Evangelo Red*. While sharing a rating of 88 points with more affordable options, this bottle demonstrates strong brand equity and exclusivity, making it a suitable choice for high-end boutique targeting rather than volume sales.
 
