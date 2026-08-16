@@ -8,7 +8,8 @@ The goal is to help a retail store manager optimize inventory selection, identif
 ### 📌 Live Dashboard Preview
 *   **Page 1:** Market & Quality Overview (Total counts, variety market share, quality brackets, geographic mapping).
 *   **Page 2:** Advanced Analytics (Price/Rating correlations, Supplier tracking, interactive filters).
-<img width="1347" height="1319" alt="Greek Wine Market Analysis" src="https://github.com/user-attachments/assets/822dd6dc-1234-4c0a-b1d9-eeb66a0d93c4" />
+<img width="1347" height="1496" alt="Greek Wine Market Analysis" src="https://github.com/user-attachments/assets/cfe37860-47c8-47a7-983b-89ce6c9b1b84" />
+
 
 ---
 
